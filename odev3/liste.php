@@ -30,7 +30,6 @@ echo "<th>" . "İşlem" . "</th>";
 echo "</tr>";
 
 foreach ($satir as $satirlar) {
-    //echo $satirlar["adsoyad"] . " - " . $satirlar["telefon"] . "<br>";
     echo "<tr>
     <td>" . $satirlar["adsoyad"] . "</td>
     <td>" . $satirlar["telefon"] . "</td>
