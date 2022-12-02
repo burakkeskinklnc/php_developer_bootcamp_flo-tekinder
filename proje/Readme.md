@@ -2,6 +2,11 @@
 <img src="https://user-images.githubusercontent.com/38539652/203889566-cb56885a-505f-4401-bc83-465eca2c6ec1.svg"> <img src="https://user-images.githubusercontent.com/38539652/203890281-2bdf8caf-e498-408c-91a1-59a7e35f6115.svg">
 <h1> PROJE ÖDEVİ - EMLAK UYGULAMASI 🚀
 <hr>
+<ul>
+<li>Session ile oturum bilgisine göre dashboard sayfasına url kısmından gidilebiliyor yetkisiz girişe engelli.</li>
+<li>Veritabanındaki Kullanıcı bilgisine göre navbar üzerinde resim ve isim soyisim geliyor.</li>
+</ul>
+<hr>
 EKRAN GÖRÜNTÜLERİ:
 <hr>
 Giriş Yap:
