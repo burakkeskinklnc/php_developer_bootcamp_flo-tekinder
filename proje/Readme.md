@@ -63,7 +63,8 @@ DİZİN YAPISI:
 <hr>
 VERİTABANI
 <hr>
-  <img src="https://user-images.githubusercontent.com/38539652/205395879-aade5984-ffdf-486e-be21-73979ab325b4.png" width="auto" height="auto">
+  <img src="https://user-images.githubusercontent.com/38539652/205434066-521b473a-adca-4fca-bb40-ed812c6e74ce.png" width="auto" height="auto">
+
 <hr>
 TABLOLAR
 <hr>
