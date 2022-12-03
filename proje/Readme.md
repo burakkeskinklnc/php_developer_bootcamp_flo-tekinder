@@ -15,9 +15,9 @@
 Bu projede bir emlak firmasının yetki girişi yaparak site içerisinde veri ekleyebildiği, güncelleyebildiği, silebildiği, listeleyebildiği, csv ve pdf olarak aktarabildiği bir uygulama amaçlanmıştır.
 <hr>
 <ul>
-<li>Session ile oturum bilgisine göre dashboard sayfasına url kısmından gidilebiliyor yetkisiz girişe engelli.</li>
+<li>Session ile oturum bilgisine göre dashboard sayfasına url kısmından gidilebiliyor yetkisiz girişe engellendi.</li>
 <li>Veritabanındaki Kullanıcı bilgisine göre navbar üzerinde resim ve isim soyisim geliyor.</li>
-<li>Ajax ile sayfaiçi veri etkileme mümkün.</li>
+<li>Ajax ile sayfaiçi veri etkileme mümkün kılındı.</li>
 <li>Tablo listeleme olarak Jquery ile çalışabilen Data Tables kütüphanesi kullanıldı.</li>
 <li>https://datatables.net/</li>
 <li>Arama olarak Data Tables özelliği olan search kullanıldı ve dil olarak tablo bilgileri Türkçe'ye çevrildi.</li>
